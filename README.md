@@ -38,11 +38,6 @@ I completed a research internship at **CERN**, working on GEM detector electroni
 - 🔧 **Bidirectional Level Shifter PCB (CERN)**
   Designed and iterated a KiCad PCB layout for GEM detector readout electronics, refining placement and routing across multiple revisions based on supervisor feedback, and documented the process in a CERN-format LaTeX report.
 
-- 🔍 [Customer Order Behavior Analysis for Food Delivery](https://github.com/Shubhamjainsj1/Customer-Order-Behavior-Analysis-for-Food-Delivery)
-  *Analyzed customer ordering patterns using Python and Seaborn to extract key insights for food delivery optimization.*
-
-- ⏱️ [Delivery Time Prediction Model](https://github.com/Shubhamjainsj1/Delivery-Time-Prediction-Model)
-  *Built a regression model using historical data to accurately predict food delivery times, improving logistical efficiency.*
 
 ---
 
